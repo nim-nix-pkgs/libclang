@@ -10,7 +10,7 @@
   inputs.src-libclang-master.flake = false;
   inputs.src-libclang-master.ref   = "refs/heads/master";
   inputs.src-libclang-master.owner = "cowboy-coders";
-  inputs.src-libclang-master.repo  = "nim-libclang.git";
+  inputs.src-libclang-master.repo  = "nim-libclang";
   inputs.src-libclang-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
