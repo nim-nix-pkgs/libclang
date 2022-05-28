@@ -33,11 +33,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1653689842,
-        "narHash": "sha256-mY9nKIxDs4rl5FYZd1BhXE6uiAn2xEmjlIHtOOwUWc0=",
+        "lastModified": 1653696445,
+        "narHash": "sha256-dknwqLZkJ8fgkUjkwSF4yFcrpXB/v7oWStszPFfaj90=",
         "owner": "nim-nix-pkgs",
         "repo": "libclang",
-        "rev": "de9600953e3562582588f3bc725745e8461630e7",
+        "rev": "d615c3acf6f4ad91fff6145d796392c92735c000",
         "type": "github"
       },
       "original": {
